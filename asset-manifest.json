@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/cryptolearn/static/css/main.a617e044.chunk.css",
-    "main.js": "/cryptolearn/static/js/main.932ffc28.chunk.js",
-    "main.js.map": "/cryptolearn/static/js/main.932ffc28.chunk.js.map",
-    "runtime-main.js": "/cryptolearn/static/js/runtime-main.dcbf4c61.js",
-    "runtime-main.js.map": "/cryptolearn/static/js/runtime-main.dcbf4c61.js.map",
-    "static/js/2.af7e1e69.chunk.js": "/cryptolearn/static/js/2.af7e1e69.chunk.js",
-    "static/js/2.af7e1e69.chunk.js.map": "/cryptolearn/static/js/2.af7e1e69.chunk.js.map",
-    "static/js/3.616d759b.chunk.js": "/cryptolearn/static/js/3.616d759b.chunk.js",
-    "static/js/3.616d759b.chunk.js.map": "/cryptolearn/static/js/3.616d759b.chunk.js.map",
+    "main.css": "/cryptolearn/static/css/main.8e7f784f.chunk.css",
+    "main.js": "/cryptolearn/static/js/main.39380b0a.chunk.js",
+    "main.js.map": "/cryptolearn/static/js/main.39380b0a.chunk.js.map",
+    "runtime-main.js": "/cryptolearn/static/js/runtime-main.d5a8337c.js",
+    "runtime-main.js.map": "/cryptolearn/static/js/runtime-main.d5a8337c.js.map",
+    "static/css/2.4be38407.chunk.css": "/cryptolearn/static/css/2.4be38407.chunk.css",
+    "static/js/2.abb6462e.chunk.js": "/cryptolearn/static/js/2.abb6462e.chunk.js",
+    "static/js/2.abb6462e.chunk.js.map": "/cryptolearn/static/js/2.abb6462e.chunk.js.map",
     "index.html": "/cryptolearn/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/cryptolearn/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.af7e1e69.chunk.js.LICENSE.txt": "/cryptolearn/static/js/2.af7e1e69.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/cryptolearn/static/media/logo.6ce24c58.svg"
+    "static/css/2.4be38407.chunk.css.map": "/cryptolearn/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.8e7f784f.chunk.css.map": "/cryptolearn/static/css/main.8e7f784f.chunk.css.map",
+    "static/js/2.abb6462e.chunk.js.LICENSE.txt": "/cryptolearn/static/js/2.abb6462e.chunk.js.LICENSE.txt",
+    "static/media/logo.4f335410.png": "/cryptolearn/static/media/logo.4f335410.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dcbf4c61.js",
-    "static/js/2.af7e1e69.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.932ffc28.chunk.js"
+    "static/js/runtime-main.d5a8337c.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.abb6462e.chunk.js",
+    "static/css/main.8e7f784f.chunk.css",
+    "static/js/main.39380b0a.chunk.js"
   ]
 }

@@ -3,6 +3,8 @@
 
 # ![logo](https://i.ibb.co/2d8HbJP/crypto.png) CryptoLearn
 
+![demo img](https://i.ibb.co/DRGKJmX/birkagal-github-io-cryptolearn.png)
+
 > Simple web-based application for demonstration of ₿lockchain concepts.
 > Check out the app @ https://birkagal.github.io/cryptolearn
 

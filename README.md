@@ -6,7 +6,7 @@
 ![demo img](https://i.ibb.co/DRGKJmX/birkagal-github-io-cryptolearn.png)
 
 > Simple web-based application for demonstration of ₿lockchain concepts.
-> Check out the app @ https://birkagal.github.io/cryptolearn
+> Check out the app @ https://www.birkagal.com/cryptolearn
 
 This website created as a very basic visual introduction to the concepts behind a blockchain. We introduce the idea of [hash](https://en.wikipedia.org/wiki/Cryptographic_hash_function), [blocks](https://en.wikipedia.org/wiki/Blockchain), transaction and coinbase wallet using an interactive web demo.\
 We also show the concept of [Digital Signature](https://en.wikipedia.org/wiki/Digital_signature) using [Elliptic Curve](https://en.wikipedia.org/wiki/Elliptic_curve) keys in a visual way.

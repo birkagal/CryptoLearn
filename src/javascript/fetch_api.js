@@ -1,4 +1,4 @@
-const base_url = "https://cryptolearn-api.herokuapp.com/";
+const base_url = "https://cryptolearn-api.onrender.com";
 /*
  * fetch_data API
  * This util file is used to connect and communicate with the REST server.

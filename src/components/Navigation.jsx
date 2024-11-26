@@ -1,6 +1,7 @@
 import React from "react";
 import { Navbar, Nav, NavDropdown } from "react-bootstrap";
 import logo_small from "../images/logo_small.png";
+import GithubIcon from "./GithubIcon"
 
 /*
  * Navigation Component.
@@ -55,7 +56,7 @@ const Navigation = () => {
           href="https://github.com/birkagal/cryptolearn"
           target="_blank"
         >
-          Source on Github
+          <GithubIcon/>
         </Nav.Link>
       </Nav>
     </Navbar>

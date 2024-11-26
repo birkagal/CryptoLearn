@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,gBAAiB,CACjB,mBACF,CAEA,cACE,kBACF,CAMA,4BACE,UACF","file":"main.0f1cb42e.chunk.css","sourcesContent":["body {\n  padding-top: 65px;\n  padding-bottom: 30px;\n}\n\n.padding-left {\n  padding-left: 200px;\n}\n\n.footer-link {\n  color: black;\n}\n\na.website-link {\n  color: black;\n}\n"]}
